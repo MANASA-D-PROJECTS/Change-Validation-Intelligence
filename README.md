@@ -41,6 +41,7 @@ The completed workflow reaches:
 ## Screenshots
 
 ![image alt](https://github.com/MANASA-D-PROJECTS/Change-Validation-Intelligence/blob/0a5891a64f03d1d97ee2a08abd938d61dbe81a6a/CVI%20Workflow.jpg)
+![image alt](https://github.com/MANASA-D-PROJECTS/Change-Validation-Intelligence/blob/7f0013094ab8132fbdf510f68eb74258ba396db6/CVI%20Validation.png)
 
 
 ## Core Principle
